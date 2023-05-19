@@ -1,0 +1,28 @@
+input 
+{
+    display: block;
+    margin-bottom: 10px;
+}
+
+button 
+{
+    margin-top: 10px;
+}
+
+.mensaje 
+{
+    margin-top: 10px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.error 
+{
+    background-color: red;
+}
+
+.exito 
+{
+    background-color: green;
+}
